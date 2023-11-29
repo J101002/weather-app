@@ -1,5 +1,5 @@
 body {
-  background: #c0eafe;
+  background: #d4eefb;
   font-family: "Roboto", sans-serif;
 }
 
@@ -11,18 +11,18 @@ a {
   background: white;
   max-width: 600px;
   margin: 45px auto;
-  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.09);
   border-radius: 16px;
   padding: 30px;
 }
 
 header {
-  border-bottom: 1px solid #c0eafe;
+  border-bottom: 1px solid #d4eefb;
   padding: 0 0 30px 0;
 }
 
 .search-input {
-  background: #d2edf9;
+  background: #d4eefb;
   border: none;
   border-radius: 6px;
   width: 80%;
